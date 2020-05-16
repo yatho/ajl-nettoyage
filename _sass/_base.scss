@@ -55,6 +55,11 @@ p {
     color: white;
 }
 
+.bg-dark-lighter {
+    background-color: $theme-dark-ligther;
+    color: white;
+}
+
 .text-faded {
     color: rgba(white, .7);
 }
