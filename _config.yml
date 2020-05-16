@@ -9,6 +9,7 @@ url: "" # the base hostname & protocol for your site
 facebook_username: Ajl-peinture-nettoyage
 facebook_url: https://www.facebook.com/Ajl-peinture-nettoyage-114156446955183/
 ajl_mail: todo@mettreMail.com
+ajl_phone: 0610101010
 
 # Build settings
 markdown: kramdown
